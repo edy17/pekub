@@ -8,3 +8,7 @@
 docker-compose up
 ```
 
+- To see result, in root folder run:
+```
+docker-compose logs -f
+```
